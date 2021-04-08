@@ -7,14 +7,19 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+text-align: center;
 }
 
 
 /* Ejercicio 2: Posicionar el header */
 
 /* Acá va tu código */
-
+header{
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    
+}
 
 
 /* Ejercicio 3: */
